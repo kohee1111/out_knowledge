@@ -1,1 +1,2 @@
 determine = নির্ধারিত
+truncated = কাটা
