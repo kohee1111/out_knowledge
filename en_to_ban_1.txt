@@ -5,3 +5,4 @@ imperative = অপরিহার্য
 antithesis = বিরোধী
 prior = পূর্বে
 symmetry = ভারসাম্য
+overlap = কোনোকিছুকে অংশত ঢেকে রাখা
