@@ -2,3 +2,4 @@ determine = নির্ধারিত
 truncated = কাটা
 dedication = উৎসর্গ
 imperative = অপরিহার্য
+antithesis = বিরোধী
