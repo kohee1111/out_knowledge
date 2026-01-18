@@ -10,3 +10,5 @@ pedagogy = শিক্ষাবিদ্যা
 regardless = নির্বিশেষে
 asap = যত তাড়াতাড়ি সম্ভব
 explanatory = ব্যাখ্যামূলক
+caters = পূরণ করে
+ranging = রেঞ্জিং 
