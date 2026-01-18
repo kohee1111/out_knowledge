@@ -4,3 +4,4 @@ dedication = উৎসর্গ
 imperative = অপরিহার্য
 antithesis = বিরোধী
 prior = পূর্বে
+symmetry = ভারসাম্য
