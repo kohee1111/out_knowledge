@@ -1,2 +1,3 @@
 determine = নির্ধারিত
 truncated = কাটা
+dedication = উৎসর্গ
