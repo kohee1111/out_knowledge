@@ -12,3 +12,13 @@ asap = যত তাড়াতাড়ি সম্ভব
 explanatory = ব্যাখ্যামূলক
 caters = পূরণ করে
 ranging = রেঞ্জিং 
+Commentary = ভাষ্য
+normative = আদর্শিক
+autonomy = স্বায়ত্তশাসন
+
+
+
+
+
+
+
