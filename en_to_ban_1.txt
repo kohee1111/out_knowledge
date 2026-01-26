@@ -18,7 +18,9 @@ autonomy = স্বায়ত্তশাসন
 cluster = গুচ্ছ
 hierarchy = শ্রেণিবিন্যাস
 interpret = ব্যাখ্যা করা
-
+interpret = meaning , explanation 
+nonetheless = তবুও
+Hence = তাই
 
 
 
