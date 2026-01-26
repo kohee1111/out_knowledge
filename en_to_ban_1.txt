@@ -22,6 +22,7 @@ interpret = meaning , explanation
 nonetheless = তবুও
 Hence = তাই
 suﬃces = সাফল্য
+orchestrating = decorate , সাজসজ্জা
 
 
 
