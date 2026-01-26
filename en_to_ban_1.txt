@@ -21,7 +21,7 @@ interpret = ব্যাখ্যা করা
 interpret = meaning , explanation 
 nonetheless = তবুও
 Hence = তাই
-
+suﬃces = সাফল্য
 
 
 
