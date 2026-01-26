@@ -27,7 +27,7 @@ consecutively = ধারাবাহিকভাবে
 tend = ঝোঁক 
 fetched = আনা হয়েছে
 retrieve = উদ্ধার করা
-
+respectively = যথাক্রমে
 
 
 
