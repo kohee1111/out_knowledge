@@ -23,7 +23,9 @@ nonetheless = তবুও
 Hence = তাই
 suﬃces = সাফল্য
 orchestrating = decorate , সাজসজ্জা
-
+consecutively = ধারাবাহিকভাবে
+tend = ঝোঁক 
+fetched = আনা হয়েছে
 
 
 
