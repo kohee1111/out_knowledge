@@ -34,7 +34,7 @@ assume = অনুমান
 jargon = পরিভাষা , অর্থহীন ভাষা
 annotate = টীকা
 consecutive = ক্রমাগত
-
+capable = সক্ষম
 
 
 
