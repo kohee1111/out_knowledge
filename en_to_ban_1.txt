@@ -37,6 +37,7 @@ consecutive = ক্রমাগত
 capable = সক্ষম
 cater = খাদ্য সরবরাহ করা , খাবারদাবারের যোগান দেওয়া;
 extent = পরিমাণ
+integrity = সততা
 
 
 
